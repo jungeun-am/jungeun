@@ -1,0 +1,12 @@
+https://tomcat.apache.org/
+
+Taglib클릭
+
+Apache Standard Taglib 클릭
+
+Standard 1.1 버전 다운로드 --> [DIR] binaries 폴더 
+--> jakarta-taglibs-standard-1.1.2.zip --> 압축풀기--> lib --> 복사 후
+WEB-INF --> lib 폴더에 붙여넣기 
+
+
+
